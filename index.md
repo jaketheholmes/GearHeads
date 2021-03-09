@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
 [Create Account](create-account.html)
+[Post Photos](post-photos.html)
 [Select Interests](select-interests.html)
 [Interact with Others](interact-with-others.html)
 [Explore Cars](explore-cars.html)
