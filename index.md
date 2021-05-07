@@ -1,9 +1,9 @@
 ## Welcome to GitHub Pages
 
 [Create Account](create-account.html)
+
 [Post Photos](post-photos.html)
 [Select Interests](select-interests.html)
-[Interact with Others](interact-with-others.html)
 [Explore Cars](explore-cars.html)
 [Explore Hashtags](explore-hashtags.html)
 [Create Group Chats](create-group-chats.html)
