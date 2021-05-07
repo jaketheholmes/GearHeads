@@ -3,14 +3,23 @@
 [Create Account](create-account.html)
 
 [Post Photos](post-photos.html)
+
 [Select Interests](select-interests.html)
+
 [Explore Cars](explore-cars.html)
+
 [Explore Hashtags](explore-hashtags.html)
+
 [Create Group Chats](create-group-chats.html)
+
 [Push Notfications](push-notifications.html)
+
 [Groups](groups.html)
+
 [Access Blogs](access-blogs.html)
+
 [Report Posts](report-posts.html)
+
 [Report Bugs](report-bugs.html)
 
 You can use the [editor on GitHub](https://github.com/jaketheholmes/GearHeads/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
